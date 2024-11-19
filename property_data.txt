@@ -1,0 +1,10 @@
+{
+  "Type of Sale": "Auction",
+  "Price": "Guide $3,700,000",
+  "Beds": "5",
+  "Baths": "3",
+  "Parking": "3",
+  "Headline": "Stunning modern family sanctuary in a sought-after position",
+  "Summary Description": "Striking the perfect balance between a sleek modern aesthetic and the feel of a tranquil oasis, this is the ultimate contemporary family residence. In a premium Strathfield address, it delivers all the convenience that this prized neighbourhood is famous for.\n- Impeccably presented, ready for families to move straight in\n- Stylish free flowing interiors embrace central water fountain\n- Open plan living with soaring ceilings, lounge with fireplace\n- Chic and spacious modern kitchen with a stone island bench\n- Lush tropical gardens, fabulous sun deck, automated blinds\n- Fully automated and heated plunge pool and spa\n- Flexible layout with five generous bedrooms, option for study\n- Three pristine bathrooms, master with ensuite and walk-in\n- Automated garage doors and fence via remote access\n- Ducted air conditioning, laundry chute, vast storage zones\n- Insulated flooring and smart lights throughout the home\n- Double internal access garage, secure gated access, alarm/CCTV\n- Steps to buses bound for CBD, Burwood and Strathfield Station"
+}
+

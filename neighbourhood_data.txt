@@ -1,0 +1,986 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd at Eve St",
+        "ref": 2135195,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Liverpool Road",
+        "lon": 151.0859211,
+        "lat": -33.8923154,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd at Eve St, Liverpool Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Liverpool Rd at Eve St",
+        "address_line2": "Liverpool Road, Strathfield NSW 2135, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2135195,
+            "name": "Liverpool Rd at Eve St",
+            "bench": "yes",
+            "osm_id": 2877462057,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "no",
+            "osm_type": "n",
+            "departures_board": "timetable",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 137,
+        "place_id": "512a519bddbfe2624059e9a6196437f240c0f00103f901299682ab000000009203164c69766572706f6f6c20526420617420457665205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0859211, -33.89231539967097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strathfield South Public School",
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Liverpool Road",
+        "housenumber": "457",
+        "lon": 151.08479540306433,
+        "lat": -33.890784350000004,
+        "state_code": "NSW",
+        "formatted": "Strathfield South Public School, 457 Liverpool Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Strathfield South Public School",
+        "address_line2": "457 Liverpool Road, Strathfield NSW 2135, Australia",
+        "categories": ["education", "education.school", "no_fee", "no_fee.no"],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Strathfield South Public School",
+            "grades": "0-6",
+            "osm_id": 228391405,
+            "amenity": "school",
+            "website": "https://www.strathfies-p.schools.nsw.edu.au/",
+            "operator": "NSW Department of Education",
+            "osm_type": "w",
+            "addr:city": "Strathfield",
+            "start_date": "1881-02-01",
+            "addr:street": "Liverpool Road",
+            "addr:suburb": "Strathfield",
+            "contact:fax": "+61 2 9742 5878",
+            "isced:level": 1,
+            "school:type": "primary",
+            "addr:postcode": 2135,
+            "contact:email": "strathfies-p.school@det.nsw.edu.au",
+            "contact:phone": "+61 2 9642 1359",
+            "operator:type": "public",
+            "school:gender": "mixed",
+            "addr:housenumber": 457,
+            "school:enrolment": 790,
+            "school:selective": "no",
+            "school:specialty": "comprehensive",
+            "operator:wikidata": "Q5260271"
+          }
+        },
+        "website": "https://www.strathfies-p.schools.nsw.edu.au/",
+        "operator": "NSW Department of Education",
+        "operator_details": { "type": "public", "wikidata": "Q5260271" },
+        "contact": {
+          "phone": "+61 2 9642 1359",
+          "email": "strathfies-p.school@det.nsw.edu.au",
+          "fax": "+61 2 9742 5878"
+        },
+        "distance": 146,
+        "place_id": "516460d9a4b6e2624059e8cfb83805f240c0f00102f901edf99c0d0000000092031f5374726174686669656c6420536f757468205075626c6963205363686f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.08479540306428, -33.890784349670696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd at Frances Ave",
+        "ref": 213640,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Strathfield South",
+        "street": "Liverpool Road",
+        "lon": 151.0861966,
+        "lat": -33.892646,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd at Frances Ave, Liverpool Road, Strathfield South NSW 2136, Australia",
+        "address_line1": "Liverpool Rd at Frances Ave",
+        "address_line2": "Liverpool Road, Strathfield South NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 213640,
+            "name": "Liverpool Rd at Frances Ave",
+            "osm_id": 2884714376,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 154,
+        "place_id": "51d8405f1fc2e262405901bf5f3942f240c0f00103f901883ff1ab0000000092031b4c69766572706f6f6c205264206174204672616e63657320417665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0861966, -33.89264599967101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australian International Academy",
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Liverpool Road",
+        "lon": 151.08854365105492,
+        "lat": -33.89298345,
+        "state_code": "NSW",
+        "formatted": "Australian International Academy, Liverpool Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Australian International Academy",
+        "address_line2": "Liverpool Road, Strathfield NSW 2135, Australia",
+        "categories": ["education", "education.school"],
+        "details": ["details", "details.place_of_worship"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Australian International Academy",
+            "osm_id": 231075867,
+            "amenity": "school",
+            "website": "https://www.aia.vic.edu.au/aia_nsw/our-campus",
+            "osm_type": "w",
+            "religion": "muslim"
+          }
+        },
+        "website": "https://www.aia.vic.edu.au/aia_nsw/our-campus",
+        "place_of_worship": { "religion": "muslim" },
+        "distance": 191,
+        "place_id": "5194b17e59d5e2624059701a1c484df240c0f00102f9011bf0c50d000000009203204175737472616c69616e20496e7465726e6174696f6e616c2041636164656d79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.08854365105492, -33.89298344967108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd before Hill St",
+        "ref": 213639,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Strathfield South",
+        "street": "Liverpool Road",
+        "lon": 151.0890924,
+        "lat": -33.8917165,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd before Hill St, Liverpool Road, Strathfield South NSW 2136, Australia",
+        "address_line1": "Liverpool Rd before Hill St",
+        "address_line2": "Liverpool Road, Strathfield South NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 213639,
+            "name": "Liverpool Rd before Hill St",
+            "osm_id": 2884714375,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 209,
+        "place_id": "514f0a4ed8d9e2624059eab129c423f240c0f00103f901873ff1ab0000000092031b4c69766572706f6f6c205264206265666f72652048696c6c205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0890924, -33.89171649967086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd before High St",
+        "ref": 2135196,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Liverpool Road",
+        "lon": 151.0893603,
+        "lat": -33.8907236,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd before High St, Liverpool Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Liverpool Rd before High St",
+        "address_line2": "Liverpool Road, Strathfield NSW 2135, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2135196,
+            "name": "Liverpool Rd before High St",
+            "bench": "yes",
+            "osm_id": 2877462058,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "yes",
+            "osm_type": "n",
+            "departures_board": "timetable",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 241,
+        "place_id": "51f2c1210adce2624059332e1d3b03f240c0f00103f9012a9682ab0000000092031b4c69766572706f6f6c205264206265666f72652048696768205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0893603, -33.89072359967067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strathfield South Public School, Hume Hwy",
+        "ref": 2135194,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Liverpool Road",
+        "lon": 151.0842069,
+        "lat": -33.8918307,
+        "state_code": "NSW",
+        "formatted": "Strathfield South Public School, Hume Hwy, Liverpool Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Strathfield South Public School, Hume Hwy",
+        "address_line2": "Liverpool Road, Strathfield NSW 2135, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2135194,
+            "name": "Strathfield South Public School, Hume Hwy",
+            "osm_id": 2877462056,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "yes",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform",
+            "check_date:shelter": "2021-12-07"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 252,
+        "place_id": "512033abd2b1e2624059de53248227f240c0f00103f901289682ab000000009203295374726174686669656c6420536f757468205075626c6963205363686f6f6c2c2048756d6520487779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.08420690000003, -33.89183069967088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd opp Strathfield South Public School",
+        "ref": 213641,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Strathfield South",
+        "street": "Liverpool Road",
+        "lon": 151.0840244,
+        "lat": -33.8920162,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd opp Strathfield South Public School, Liverpool Road, Strathfield South NSW 2136, Australia",
+        "address_line1": "Liverpool Rd opp Strathfield South Public School",
+        "address_line2": "Liverpool Road, Strathfield South NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 213641,
+            "name": "Liverpool Rd opp Strathfield South Public School",
+            "osm_id": 2884714377,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "yes",
+            "osm_type": "n",
+            "tactile_paving": "no",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform",
+            "check_date:shelter": "2021-12-07"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 273,
+        "place_id": "511d42f053b0e26240595c8b3a962df240c0f00103f901893ff1ab000000009203304c69766572706f6f6c205264206f7070205374726174686669656c6420536f757468205075626c6963205363686f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0840244, -33.892016199670906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homebush Rd after High St",
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Homebush Road",
+        "lon": 151.083928,
+        "lat": -33.8897418,
+        "state_code": "NSW",
+        "formatted": "Homebush Rd after High St, Homebush Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Homebush Rd after High St",
+        "address_line2": "Homebush Road, Strathfield NSW 2135, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Homebush Rd after High St",
+            "osm_id": 11147423537,
+            "highway": "bus_stop",
+            "service": "commuter",
+            "osm_type": "n",
+            "public_transport": "platform"
+          }
+        },
+        "distance": 327,
+        "place_id": "51fee6c589afe262405908bc2d0fe3f140c0f00103f901312f709802000000920319486f6d65627573682052642061667465722048696768205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.08392799999996, -33.8897417996705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Reserve",
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Strathfield South",
+        "lon": 151.09090373686786,
+        "lat": -33.890423,
+        "state_code": "NSW",
+        "formatted": "Coronation Reserve, Strathfield South NSW 2136, Australia",
+        "address_line1": "Coronation Reserve",
+        "address_line2": "Strathfield South NSW 2136, Australia",
+        "categories": ["leisure", "leisure.park"],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coronation Reserve",
+            "osm_id": -9280854,
+            "leisure": "park",
+            "osm_type": "r"
+          }
+        },
+        "distance": 340,
+        "place_id": "51d01df4aee8e262405984987f61f9f140c0f00101f901569d8d0000000000920312436f726f6e6174696f6e2052657365727665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.09090373686786, -33.89042299967062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Pde opp St Thomas' Anglican Church",
+        "ref": 2136202,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Burwood Council",
+        "street": "Coronation Parade",
+        "lon": 151.0908962,
+        "lat": -33.8910909,
+        "state_code": "NSW",
+        "formatted": "Coronation Pde opp St Thomas' Anglican Church, Coronation Parade, Burwood Council NSW 2136, Australia",
+        "address_line1": "Coronation Pde opp St Thomas' Anglican Church",
+        "address_line2": "Coronation Parade, Burwood Council NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2136202,
+            "name": "Coronation Pde opp St Thomas' Anglican Church",
+            "osm_id": 2892625891,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 374,
+        "place_id": "5196ca259fe8e2624059aeec3f440ff240c0f00103f901e3f769ac0000000092032d436f726f6e6174696f6e20506465206f70702053742054686f6d61732720416e676c6963616e20436875726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.09089620000003, -33.89109089967074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Pde at Hill St",
+        "ref": 2136201,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Burwood Council",
+        "street": "Coronation Parade",
+        "lon": 151.0905464,
+        "lat": -33.8929099,
+        "state_code": "NSW",
+        "formatted": "Coronation Pde at Hill St, Coronation Parade, Burwood Council NSW 2136, Australia",
+        "address_line1": "Coronation Pde at Hill St",
+        "address_line2": "Coronation Parade, Burwood Council NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2136201,
+            "name": "Coronation Pde at Hill St",
+            "osm_id": 2892625877,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 380,
+        "place_id": "51a85890c1e5e262405952ae20df4af240c0f00103f901d5f769ac00000000920319436f726f6e6174696f6e205064652061742048696c6c205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0905464, -33.89290989967107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Thomas' Anglican Church, Coronation Pde",
+        "ref": 2136191,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Burwood Council",
+        "street": "Coronation Parade",
+        "lon": 151.0910087,
+        "lat": -33.8912881,
+        "state_code": "NSW",
+        "formatted": "St Thomas' Anglican Church, Coronation Pde, Coronation Parade, Burwood Council NSW 2136, Australia",
+        "address_line1": "St Thomas' Anglican Church, Coronation Pde",
+        "address_line2": "Coronation Parade, Burwood Council NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2136191,
+            "name": "St Thomas' Anglican Church, Coronation Pde",
+            "osm_id": 2891157086,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 383,
+        "place_id": "51dac4138be9e262405933b37bba15f240c0f00103f9015e8e53ac0000000092032a53742054686f6d61732720416e676c6963616e204368757263682c20436f726f6e6174696f6e20506465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.09100870000003, -33.89128809967078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Pde at Mitchell St",
+        "ref": 2136192,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Burwood Council",
+        "street": "Coronation Parade",
+        "lon": 151.0906828,
+        "lat": -33.8930076,
+        "state_code": "NSW",
+        "formatted": "Coronation Pde at Mitchell St, Coronation Parade, Burwood Council NSW 2136, Australia",
+        "address_line1": "Coronation Pde at Mitchell St",
+        "address_line2": "Coronation Parade, Burwood Council NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2136192,
+            "name": "Coronation Pde at Mitchell St",
+            "osm_id": 2891157087,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 396,
+        "place_id": "51e9899ddfe6e262405958d5b1124ef240c0f00103f9015f8e53ac0000000092031d436f726f6e6174696f6e20506465206174204d69746368656c6c205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0906828, -33.89300759967108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edwards Park",
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "lon": 151.08221192281383,
+        "lat": -33.88967155,
+        "state_code": "NSW",
+        "formatted": "Edwards Park, Strathfield NSW 2135, Australia",
+        "address_line1": "Edwards Park",
+        "address_line2": "Strathfield NSW 2135, Australia",
+        "categories": ["leisure", "leisure.park"],
+        "details": ["details.wiki_and_media"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Edwards Park",
+            "osm_id": 228391406,
+            "leisure": "park",
+            "osm_type": "w",
+            "wikidata": "Q21929525"
+          }
+        },
+        "wiki_and_media": { "wikidata": "Q21929525" },
+        "distance": 417,
+        "place_id": "5174fae57aa1e26240591802e1c1e0f140c0f00102f901eef99c0d0000000092030c45647761726473205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.08221192281383, -33.88967154967048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Pde at Plymouth St",
+        "ref": 2136203,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Burwood Council",
+        "street": "Coronation Parade",
+        "lon": 151.0912064,
+        "lat": -33.889412,
+        "state_code": "NSW",
+        "formatted": "Coronation Pde at Plymouth St, Coronation Parade, Burwood Council NSW 2136, Australia",
+        "address_line1": "Coronation Pde at Plymouth St",
+        "address_line2": "Coronation Parade, Burwood Council NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2136203,
+            "name": "Coronation Pde at Plymouth St",
+            "bench": "yes",
+            "osm_id": 2892625888,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "yes",
+            "osm_type": "n",
+            "departures_board": "timetable",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 456,
+        "place_id": "51f325af29ebe262405993a09d40d8f140c0f00103f901e0f769ac0000000092031d436f726f6e6174696f6e2050646520617420506c796d6f757468205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0912064, -33.889411999670436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Pde at Mina Rosa St",
+        "ref": 2136190,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Burwood Council",
+        "street": "Coronation Parade",
+        "lon": 151.0913416,
+        "lat": -33.8895235,
+        "state_code": "NSW",
+        "formatted": "Coronation Pde at Mina Rosa St, Coronation Parade, Burwood Council NSW 2136, Australia",
+        "address_line1": "Coronation Pde at Mina Rosa St",
+        "address_line2": "Coronation Parade, Burwood Council NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2136190,
+            "name": "Coronation Pde at Mina Rosa St",
+            "osm_id": 2891157085,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "yes",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 462,
+        "place_id": "5175183845ece2624059d60df2e7dbf140c0f00103f9015d8e53ac0000000092031e436f726f6e6174696f6e20506465206174204d696e6120526f7361205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0913416, -33.88952349967046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd at Mintaro Ave",
+        "ref": 2135197,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2135",
+        "district": "Inner West",
+        "suburb": "Strathfield",
+        "street": "Liverpool Road",
+        "lon": 151.0904896,
+        "lat": -33.8884919,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd at Mintaro Ave, Liverpool Road, Strathfield NSW 2135, Australia",
+        "address_line1": "Liverpool Rd at Mintaro Ave",
+        "address_line2": "Liverpool Road, Strathfield NSW 2135, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 2135197,
+            "name": "Liverpool Rd at Mintaro Ave",
+            "osm_id": 2877462060,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "shelter": "yes",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 463,
+        "place_id": "511a14724ae5e262405922ec411abaf140c0f00103f9012c9682ab0000000092031b4c69766572706f6f6c205264206174204d696e7461726f20417665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0904896, -33.888491899670285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronation Pde",
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Strathfield South",
+        "street": "Coronation Parade",
+        "lon": 151.0898628,
+        "lat": -33.8947986,
+        "state_code": "NSW",
+        "formatted": "Coronation Pde, Coronation Parade, Strathfield South NSW 2136, Australia",
+        "address_line1": "Coronation Pde",
+        "address_line2": "Coronation Parade, Strathfield South NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "name": "Coronation Pde",
+            "osm_id": 11147423535,
+            "highway": "bus_stop",
+            "service": "commuter",
+            "osm_type": "n",
+            "public_transport": "platform"
+          }
+        },
+        "distance": 470,
+        "place_id": "511064f327e0e2624059300cb1c288f240c0f00103f9012f2f70980200000092030e436f726f6e6174696f6e20506465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0898628, -33.89479859967139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool Rd before Plymouth St",
+        "ref": 213638,
+        "country": "Australia",
+        "country_code": "au",
+        "state": "New South Wales",
+        "city": "Sydney",
+        "municipality": "Strathfield Municipal Council",
+        "postcode": "2136",
+        "district": "Inner West",
+        "suburb": "Strathfield South",
+        "street": "Liverpool Road",
+        "lon": 151.0907325,
+        "lat": -33.8885555,
+        "state_code": "NSW",
+        "formatted": "Liverpool Rd before Plymouth St, Liverpool Road, Strathfield South NSW 2136, Australia",
+        "address_line1": "Liverpool Rd before Plymouth St",
+        "address_line2": "Liverpool Road, Strathfield South NSW 2136, Australia",
+        "categories": ["public_transport", "public_transport.bus"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "ref": 213638,
+            "name": "Liverpool Rd before Plymouth St",
+            "osm_id": 2884714374,
+            "highway": "bus_stop",
+            "network": "Transport Buses",
+            "osm_type": "n",
+            "network:wikidata": "Q5001345",
+            "public_transport": "platform"
+          }
+        },
+        "network": "Transport Buses",
+        "network_details": { "wikidata": "Q5001345" },
+        "distance": 475,
+        "place_id": "51e605d847e7e2624059e7e1c52fbcf140c0f00103f901863ff1ab0000000092031f4c69766572706f6f6c205264206265666f726520506c796d6f757468205374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.0907325, -33.8885554996703]
+      }
+    }
+  ]
+}
